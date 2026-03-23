@@ -11,4 +11,6 @@ com\example\jpa\model\AuthRequest.class
 com\example\jpa\model\AuthResponse.class
 com\example\jpa\model\Employee.class
 com\example\jpa\repository\EmployeeRepository.class
+com\example\jpa\controller\FileController.class
 com\example\jpa\controller\EmployeeController.class
+com\example\jpa\controller\FileController$1.class
